@@ -12,7 +12,7 @@ This tutorial is structured to teach you Python step by step, including:
 |-----|-------|
 | ✅ Day 1 | Variables, Numbers, Strings|
 | ✅ Day 2 | Lists in Python |
-| ✅ Day 3 | Conditional Statements (if-else, nested) |
+| ✅ Day 3 | Conditional Statements (if-else, elif, nestedif) |
 | ✅ Day 4 | Loops (for, while, break, continue) |
 | ✅ Day 5 | Functions and Lambda Expressions |
 | ✅ Day 6 | File Handling (read/write) |
