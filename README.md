@@ -15,6 +15,7 @@ This tutorial is structured to teach you Python step by step, including:
 | ✅ Day 3 | Conditional Statements (if-else, elif, nestedif) |
 | ✅ Day 4 | Loops (for, while, break, continue) |
 | ✅ Day 5 | Functions and Lambda Expressions |
+| ✅ Day 6 | Dictionary and Tuples |
 | ✅ Day 6 | File Handling (read/write) |
 | ✅ Day 7 | Modules and Packages |
 | ✅ Day 8 | Object-Oriented Programming |
